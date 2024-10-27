@@ -1,0 +1,32 @@
+# USbank
+DOMAIN-SUFFIX,citi.com
+DOMAIN-SUFFIX,discover.com
+DOMAIN-SUFFIX,fidelity.com
+DOMAIN-SUFFIX,santanderbank.com
+DOMAIN-SUFFIX,tdbank.com
+DOMAIN-SUFFIX,wellfargo.com
+DOMAIN-SUFFIX,icbc-us.com
+DOMAIN-SUFFIX,bluebird.com
+DOMAIN-SUFFIX,creditcarma.com
+DOMAIN-SUFFIX,creditsesame.com
+DOMAIN-SUFFIX,usbank.com
+DOMAIN-SUFFIX,capitalone.com
+DOMAIN-SUFFIX,cash.app
+DOMAIN-SUFFIX,chase.com
+DOMAIN-SUFFIX,americanexpress.com
+DOMAIN-SUFFIX,revolut.com
+# Investment
+DOMAIN-SUFFIX,acorns.com
+DOMAIN-SUFFIX,betterment.com
+DOMAIN-SUFFIX,robinhood.com
+DOMAIN-SUFFIX,wealthfront.com
+DOMAIN-SUFFIX,coinbase.com
+DOMAIN-SUFFIX,paypal.com
+DOMAIN-SUFFIX,ebay.com
+# Misc
+DOMAIN-SUFFIX,vanillagift.com
+DOMAIN-SUFFIX,ssa.gov
+DOMAIN-SUFFIX,linkedin.com
+DOMAIN-SUFFIX,tmobile.com
+DOMAIN-SUFFIX,t-mobile.com
+DOMAIN-SUFFIX,amazon.com
